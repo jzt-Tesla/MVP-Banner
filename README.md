@@ -411,14 +411,14 @@ public class UrlConfig {
 
 ```
 ##效果图：
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
+![jzt](http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif)
 
-  <font color=#CD00CD size=4>**不对~ ~**</font>
+  不对~ ~
 
 
 是这张：
+![jzt](http://ww4.sinaimg.cn/large/a8b2d4dfjw1f8t1l72th6g20b40kr1l0.gif)
 
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/large/a8b2d4dfjw1f8t1l72th6g20b40kr1l0.gif">
+[源码下载](https://github.com/jzt-Tesla/MVP-Banner)
 
- <font  size=5>**[源码下载]()**</font>
  欢迎大家Star啦~啦~啦
