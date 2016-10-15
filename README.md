@@ -411,13 +411,13 @@ public class UrlConfig {
 
 ```
 ##效果图：
-![jzt](http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif)
+![girl](http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif)
 
   不对~ ~
 
 
 是这张：
-![jzt](http://ww4.sinaimg.cn/large/a8b2d4dfjw1f8t1l72th6g20b40kr1l0.gif)
+![show](http://ww4.sinaimg.cn/large/a8b2d4dfjw1f8t1l72th6g20b40kr1l0.gif)
 
 [源码下载](https://github.com/jzt-Tesla/MVP-Banner)
 
