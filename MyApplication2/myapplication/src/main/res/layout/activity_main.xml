@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:banner="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.youth.banner.Banner
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        banner:indicator_drawable_selected="@android:color/holo_orange_dark"
+        banner:indicator_drawable_unselected="@android:color/white"
+        banner:indicator_height="6dp"
+        banner:indicator_margin="3dp"
+        banner:indicator_width="6dp"
+        >
+        >
+
+    </com.youth.banner.Banner>
+</RelativeLayout>
